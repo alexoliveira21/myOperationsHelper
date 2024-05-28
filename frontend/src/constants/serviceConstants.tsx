@@ -1,0 +1,1 @@
+export const API_ENDPOINT = 'https://1v060uogf1.execute-api.us-east-1.amazonaws.com/dev/:method';
